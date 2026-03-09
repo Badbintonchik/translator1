@@ -1,3 +1,8 @@
 libportaudio2
 portaudio19-dev
 python3-pyaudio
+streamlit
+SpeechRecognition
+deep-translator
+gTTS
+PyAudio
