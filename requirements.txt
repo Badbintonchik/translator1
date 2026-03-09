@@ -1,5 +1,4 @@
 streamlit
-SpeechRecognition
 deep-translator
 gTTS
-PyAudio
+streamlit-mic-recorder
