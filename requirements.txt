@@ -1,4 +1,6 @@
-streamlit
-deep-translator
-gTTS
-streamlit-mic-recorder
+import streamlit as st
+from deep_translator import GoogleTranslator
+from gtts import gTTS
+import speech_recognition as sr
+import os
+
